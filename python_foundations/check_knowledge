@@ -1,0 +1,16 @@
+1. Write a function that accepts a list of URLs and returns a list of results.
+
+
+2. Load a JSON file containing service names and URLs.
+
+
+3. Reject a configuration with a missing URL or invalid timeout.
+
+
+4. Handle an exception without crashing the entire program.
+
+
+5. Write a test that verifies a function returns the expected result.
+
+
+6. Split your code into separate modules and run it from the terminal.
