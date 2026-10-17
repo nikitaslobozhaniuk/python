@@ -1,16 +1,18 @@
+Build the Cloud Service Health Monitor project.
+You should be able to:
+
 1. Write a function that accepts a list of URLs and returns a list of results.
+2. Load a JSON file containing service names, URLs and timeout settings.
+3. Validate the configuration using Pydantic, rejecting missing URLs and invalid timeout values.
+4. Send HTTP requests using requests and measure response times.
+5. Handle HTTP errors, timeouts and connection failures without crashing the entire program.
+6. Define a consistent result structure containing service name, URL, health status, response time and error details.
+7. Write automated tests with pytest to verify expected results.
+8. Mock HTTP requests so tests work without an internet connection.
+9. Test valid configurations, invalid configurations and failure scenarios.
+10. Split the application into separate modules with clear responsibilities.
+11. Run the application from the command line and accept a configuration file path as an argument.
+12. Save results to JSON and return a nonzero exit code if any service is unhealthy.
+13. Use Git to track the project and publish it to GitHub with a README explaining installation, usage and testing.
 
-
-2. Load a JSON file containing service names and URLs.
-
-
-3. Reject a configuration with a missing URL or invalid timeout.
-
-
-4. Handle an exception without crashing the entire program.
-
-
-5. Write a test that verifies a function returns the expected result.
-
-
-6. Split your code into separate modules and run it from the terminal.
+Readiness evidence: a working, modular Python application with validated configuration, reliable error handling, automated tests and clear documentation.
