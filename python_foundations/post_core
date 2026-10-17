@@ -1,9 +1,15 @@
-- Git: commits, branches, .gitignore, remote repositories and pushing to GitHub.
+1. Git: commits, branches, merging, .gitignore, remote repositories, pushing to GitHub and resolving basic merge conflicts.
 
-- Command line: run Python scripts, navigate directories and pass command-line arguments.
+2. Command line: navigating directories, running Python scripts, command-line arguments, environment variables and managing virtual environments.
 
-- Testing concepts: assertions, test cases, fixtures, parametrization and mocking.
+3. Testing concepts: assertions, test cases, fixtures, parametrization, mocking and testing failure cases.
 
-- HTTP basics: requests and responses, status codes, headers, timeouts and connection errors.
+4. HTTP basics: requests and responses, HTTP methods, status codes, headers, JSON payloads, timeouts and connection errors.
 
-- requests, pytest and pydantic
+5. requests: making HTTP requests, handling responses, configuring timeouts, handling exceptions and working with JSON.
+
+6. pytest: writing tests, discovering tests, fixtures, parametrization, mocking dependencies and organizing test files.
+
+7. pydantic: defining models, validating input, field constraints, optional fields, nested models and handling validation errors.
+
+8. Python project organization: packages, imports, project structure, dependency isolation and configuration management.
