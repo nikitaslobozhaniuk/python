@@ -1,0 +1,9 @@
+- Git: commits, branches, .gitignore, remote repositories and pushing to GitHub.
+
+- Command line: run Python scripts, navigate directories and pass command-line arguments.
+
+- Testing concepts: assertions, test cases, fixtures, parametrization and mocking.
+
+- HTTP basics: requests and responses, status codes, headers, timeouts and connection errors.
+
+- requests, pytest and pydantic
