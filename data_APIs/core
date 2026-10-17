@@ -1,0 +1,63 @@
+1. Data formats and data handling
+
+- JSON structure, nested objects and arrays
+- CSV files and tabular data
+- Data types, schemas and validation
+- Missing, invalid and duplicate data
+- Data serialization and deserialization
+- Basic data cleaning and transformations
+
+2. SQL and relational databases
+
+- Tables, rows, columns and data types
+- Primary keys and foreign keys
+- SELECT, WHERE, ORDER BY and LIMIT
+- INSERT, UPDATE and DELETE
+- Aggregate functions: COUNT, SUM, AVG, MIN and MAX
+- GROUP BY and HAVING
+- INNER JOIN and LEFT JOIN
+- Subqueries and common table expressions (CTEs)
+- NULL values and constraints
+- Indexes and basic query performance
+- Transactions and ACID fundamentals
+- Connecting Python to a database
+
+3. HTTP and REST APIs
+
+- Client-server architecture
+- HTTP requests and responses
+- Methods: GET, POST, PUT, PATCH and DELETE
+- Status codes: 2xx, 3xx, 4xx and 5xx
+- Headers, query parameters and request bodies
+- JSON request and response formats
+- REST principles and resource-oriented endpoints
+- Authentication and authorization basics
+- API keys, tokens and environment variables
+- Timeouts, retries and error handling
+- Pagination and API rate limits
+- Idempotency and safe retries
+
+4. Building APIs with Python
+
+- FastAPI fundamentals
+- Routes and endpoint functions
+- Path parameters and query parameters
+- Request and response models with Pydantic
+- Input validation and error responses
+- Dependency injection basics
+- Connecting API endpoints to a database
+- Configuration through environment variables
+- API documentation with OpenAPI
+- Testing endpoints and mocking external dependencies
+
+5. Data pipelines and reliability
+
+- Extract, transform and load (ETL) fundamentals
+- Extract, load and transform (ELT) fundamentals
+- Data validation and quality checks
+- Batch processing versus streaming
+- Idempotent pipeline operations
+- Retries, failures and recovery
+- Logging and pipeline status
+- Scheduling and dependencies between tasks
+- Basic data lineage and reproducibility
