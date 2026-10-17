@@ -1,49 +1,55 @@
 1. Basic syntax and data types
-- [ ] Variables and assignment
-- [ ] Strings, integers, floats and booleans
-- [ ] Type conversion
-- [ ] Operators and comparisons
-- [ ] f-strings and string methods
-- [ ] None and truthiness
+
+- Variables and assignment
+- Strings, integers, floats and booleans
+- Type conversion
+- Operators and comparisons
+- f-strings and string methods
+- None and truthiness
 
 2. Control flow and collections
-- [ ] if, elif and else
-- [ ] for and while loops
-- [ ] Lists and tuples
-- [ ] Dictionaries and sets
-- [ ] Indexing, slicing and membership
-- [ ] List and dictionary comprehensions
+
+- if, elif and else
+- for and while loops
+- Lists and tuples
+- Dictionaries and sets
+- Indexing, slicing and membership
+- List and dictionary comprehensions
 
 3. Functions
-- [ ] Defining and calling functions
-- [ ] Parameters, arguments and return values
-- [ ] Default and keyword arguments
-- [ ] Variable scope
-- [ ] Breaking programs into small functions
-- [ ] Basic type hints
+
+- Defining and calling functions
+- Parameters, arguments and return values
+- Default and keyword arguments
+- Variable scope
+- Breaking programs into small functions
+- Basic type hints
 
 4. Core Python structures
-- [ ] Importing modules and packages
-- [ ] Creating your own modules
-- [ ] Exceptions: try, except, else and finally
-- [ ] Raising exceptions
-- [ ] Reading and writing files
-- [ ] Working with JSON
-- [ ] Using pathlib for file paths
+
+- Importing modules and packages
+- Creating your own modules
+- Exceptions: try, except, else and finally
+- Raising exceptions
+- Reading and writing files
+- Working with JSON
+- Using pathlib for file paths
 
 5. Intermediate Python
-- [ ] Classes and objects: basic understanding
-- [ ] Dataclasses and when to use them
-- [ ] Context managers and with
-- [ ] Iterators and generators: basic understanding
-- [ ] Mutable vs immutable objects
-- [ ] Virtual environments and pip
-- [ ] Dependency management and requirements files
+
+- Classes and objects: basic understanding
+- Dataclasses and when to use them
+- Context managers and with
+- Iterators and generators: basic understanding
+- Mutable vs immutable objects
+- Virtual environments and pip
+- Dependency management and requirements files
 
 6. Writing maintainable code
-- [ ] Separation of concerns
-- [ ] Avoiding duplicated code
-- [ ] Logging with the logging module
-- [ ] Type hints for functions and return values
-- [ ] Reading tracebacks and debugging
-- [ ] Basic code formatting and linting
+
+- Separation of concerns
+- Avoiding duplicated code
+- Logging with the logging module
+- Type hints for functions and return values
+- Reading tracebacks and debugging
+- Basic code formatting and linting
